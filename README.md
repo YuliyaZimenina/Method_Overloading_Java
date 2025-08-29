@@ -93,3 +93,11 @@ public class Overload {
 ```
 
 ## Screenshots
+
+1. Output of the program `MethodOverloadDemo.java`:
+
+<img src="images/Output_1.png" alt="Output_1" width="500">
+
+2. Output of the program `SecondOverloadDemo.java`:
+
+<img src="images/Outout_2.png" alt="Output_2" width="500">
