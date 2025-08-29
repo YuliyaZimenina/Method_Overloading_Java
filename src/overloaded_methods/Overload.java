@@ -23,5 +23,4 @@ public class Overload {
         System.out.println("Two parameters of type double: a = " + a + ", b = " + b);
         return a + b;
     }
-
 }
